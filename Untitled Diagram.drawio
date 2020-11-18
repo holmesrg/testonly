@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T12:36:45.884Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="Li-Eb-I9t3G90NLtXLmx" version="13.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-18T12:41:50.065Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="ypff8OJfpFYgwcKfT0CK" version="13.9.9" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Layer 1">
-    <mxGraphModel dx="1395" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2564" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,15 +18,7 @@
         </mxCell>
         <mxCell id="PBUgpTxRqVu0yyWiaOzw-3" value="Occasionally accesses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;rotation=30;" vertex="1" connectable="0" parent="bhuwDCWxhDeShvpSnMYi-30">
           <mxGeometry x="0.094" y="-22" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bhuwDCWxhDeShvpSnMYi-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.024;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="IgGYjZkhIUAj17sx0JQ3-1780" target="IgGYjZkhIUAj17sx0JQ3-1790">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PBUgpTxRqVu0yyWiaOzw-2" value="Occasionally accesses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;rotation=5;" vertex="1" connectable="0" parent="bhuwDCWxhDeShvpSnMYi-31">
-          <mxGeometry x="0.1863" y="-2" relative="1" as="geometry">
-            <mxPoint x="64.65" as="offset" />
+            <mxPoint x="23.41" y="14.06" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bhuwDCWxhDeShvpSnMYi-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="IgGYjZkhIUAj17sx0JQ3-1780" target="IgGYjZkhIUAj17sx0JQ3-1791">
@@ -37,12 +29,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PBUgpTxRqVu0yyWiaOzw-10" value="Occasionally accesses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="bhuwDCWxhDeShvpSnMYi-33">
+          <mxGeometry x="0.2085" y="-4" relative="1" as="geometry">
+            <mxPoint x="-220.41" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PBUgpTxRqVu0yyWiaOzw-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=24;" edge="1" parent="1" source="IgGYjZkhIUAj17sx0JQ3-1780" target="IgGYjZkhIUAj17sx0JQ3-1793">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="11.94" y="-406" />
               <mxPoint x="11.94" y="78" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PBUgpTxRqVu0yyWiaOzw-12" value="Uses office tools,&lt;br&gt;online storage and&lt;br&gt;sends emails using" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="PBUgpTxRqVu0yyWiaOzw-1">
+          <mxGeometry x="0.4606" relative="1" as="geometry">
+            <mxPoint y="-12.12" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Team Member" c4Type="Person" c4Description="Radium Employee" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="IgGYjZkhIUAj17sx0JQ3-1780">
@@ -116,6 +118,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PBUgpTxRqVu0yyWiaOzw-4" value="Uses API to&lt;br&gt;request data for&lt;br&gt;Loan applicants" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="bhuwDCWxhDeShvpSnMYi-12">
+          <mxGeometry x="-0.0472" y="-2" relative="1" as="geometry">
+            <mxPoint x="-29.88" y="-34.7" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bhuwDCWxhDeShvpSnMYi-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="bhuwDCWxhDeShvpSnMYi-5" target="IgGYjZkhIUAj17sx0JQ3-1794">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -125,6 +132,11 @@
               <mxPoint x="356.94" y="-76.06000000000006" />
               <mxPoint x="156.94" y="-76.06000000000006" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PBUgpTxRqVu0yyWiaOzw-11" value="Sends emails&lt;br&gt;using" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="bhuwDCWxhDeShvpSnMYi-14">
+          <mxGeometry x="0.7679" y="7" relative="1" as="geometry">
+            <mxPoint y="-19.97" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Radium Portal Server" c4Type="Container" c4Technology=".Net on AWS EC2" c4Description="Container for Portal and Portal Monitoring Applications" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="bhuwDCWxhDeShvpSnMYi-5">
@@ -141,6 +153,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PBUgpTxRqVu0yyWiaOzw-5" value="Applies for loans&lt;br&gt;using" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="bhuwDCWxhDeShvpSnMYi-32">
+          <mxGeometry x="0.028" y="20" relative="1" as="geometry">
+            <mxPoint x="23.12" y="152.77" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <object placeholders="1" c4Name="Customer" c4Type="Person" c4Description="Radium Customer" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="bhuwDCWxhDeShvpSnMYi-15">
           <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
             <mxGeometry x="701.94" y="273.94" width="110.00000000000001" height="140" as="geometry" />
@@ -149,12 +166,22 @@
         <mxCell id="bhuwDCWxhDeShvpSnMYi-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="bhuwDCWxhDeShvpSnMYi-16" target="bhuwDCWxhDeShvpSnMYi-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PBUgpTxRqVu0yyWiaOzw-6" value="Performs tactical&lt;br&gt;error repairs on" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="bhuwDCWxhDeShvpSnMYi-17">
+          <mxGeometry x="-0.1603" y="-13" relative="1" as="geometry">
+            <mxPoint x="45.06" y="-8.059999999999999" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bhuwDCWxhDeShvpSnMYi-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="bhuwDCWxhDeShvpSnMYi-16" target="bhuwDCWxhDeShvpSnMYi-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="271.94" y="-16.06000000000006" />
               <mxPoint x="396.94" y="-16.06000000000006" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PBUgpTxRqVu0yyWiaOzw-7" value="Checks logs for,&lt;br&gt;updates code for,&lt;br&gt;and maintains" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="bhuwDCWxhDeShvpSnMYi-18">
+          <mxGeometry x="0.401" y="-2" relative="1" as="geometry">
+            <mxPoint x="13.82" y="-25.94" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bhuwDCWxhDeShvpSnMYi-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="bhuwDCWxhDeShvpSnMYi-16" target="IgGYjZkhIUAj17sx0JQ3-1783">
@@ -165,6 +192,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PBUgpTxRqVu0yyWiaOzw-8" value="Manages&lt;br&gt;access&amp;nbsp;to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="bhuwDCWxhDeShvpSnMYi-19">
+          <mxGeometry x="0.2381" y="-27" relative="1" as="geometry">
+            <mxPoint x="91.06" y="-119.82" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bhuwDCWxhDeShvpSnMYi-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="bhuwDCWxhDeShvpSnMYi-16" target="IgGYjZkhIUAj17sx0JQ3-1791">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -172,6 +204,11 @@
               <mxPoint x="251.94" y="-530" />
               <mxPoint x="716.94" y="-530" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PBUgpTxRqVu0yyWiaOzw-9" value="Updates templates&lt;br&gt;&amp;amp; catches stuck files&lt;br&gt;on" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="bhuwDCWxhDeShvpSnMYi-35">
+          <mxGeometry x="0.0293" y="-42" relative="1" as="geometry">
+            <mxPoint x="-22" y="60.59" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="IT" c4Type="Person" c4Description="Radium IT&#xa;Personnel" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="bhuwDCWxhDeShvpSnMYi-16">
